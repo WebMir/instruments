@@ -1,3 +1,8 @@
+   <style>
+   .recommend{
+   color: #ff0000
+   }
+   </style>
    <h1>Инструменты веб разработчика</h1>
 
 
