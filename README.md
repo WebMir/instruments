@@ -1,14 +1,21 @@
-   <style>
-   .recommend{
-   color: #ff0000
-   }
-   </style>
+<style>
+.recommend{
+ color: #ff0000
+ }
+ </style>
    <h1>Инструменты веб разработчика</h1>
 
 
   <h2>Цвета / Краски / Радуга / Color</h2>
 
-<li><span class="recommend" color="#ff0000">Рекомендую</span> Цветавая подборка для вашего сайта. Подобрано для всего, фон, текст, карточки, ссылки, каждую подборку можно посмотреть на живом примере. https://www.happyhues.co/
+<li><span
+          <style>
+.recommend{
+ color: #ff0000
+ }
+ </style>
+          
+          class="recommend" color="#ff0000">Рекомендую</span> Цветавая подборка для вашего сайта. Подобрано для всего, фон, текст, карточки, ссылки, каждую подборку можно посмотреть на живом примере. https://www.happyhues.co/
   
 <li> Простая подборка цветов, 4 цвета. https://colorhunt.co/
   
